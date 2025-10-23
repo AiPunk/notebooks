@@ -1,6 +1,4 @@
-# ai-notebooks
-
-Collection of short Jupyter notebooks (as .ipynb) demonstrating core AI tasks.
+Collection of short Jupyter notebooks such as
 - sentiment_analysis.ipynb
 - image_classification.ipynb
 - forecasting.ipynb
